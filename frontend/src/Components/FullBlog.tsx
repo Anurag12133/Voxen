@@ -1,8 +1,8 @@
-import { blog } from "../hooks";
+import { Blog } from "../hooks";
 import { Appbar } from "./Appbar";
 import { Avatar } from "./Blogcard";
 
-export const FullBlog = ({ blog }: { blog: blog }) => {
+export const FullBlog = ({ blog }: { blog: Blog }) => {
   return (
     <div>
       <Appbar />
