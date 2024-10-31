@@ -1,6 +1,6 @@
 import "../css/Landing.css";
 import "../css/Common.css";
-import { BACKEND_URL, FRONTEND_URL } from "../config";
+import { FRONTEND_URL } from "../config";
 const Landing = () => {
   return (
     <>
