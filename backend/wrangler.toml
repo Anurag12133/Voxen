@@ -1,0 +1,7 @@
+name = "core-voxen"
+compatibility_date = "2023-12-01"
+
+[vars]
+DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNjRmMmJkM2YtOGU2Mi00MzU4LThlYWEtMWY0YWYwMGU0NTJiIiwidGVuYW50X2lkIjoiMjQzZGMzZGE0MWVhZDllMWExZTExMDY2ZDM2NGM4NTRkZmZmYjliMGM1ZWY4Y2JlYjUzZDA0ZGJlNmRlNjY0OCIsImludGVybmFsX3NlY3JldCI6IjJiYjEzYmVhLTgxN2UtNDg5MS1iZDdiLTQyNTljNmJlNDdiNCJ9.DudABbgfSxFqmiykcQVJ5jYC_K72U-ZcJKeIBzgN80k"
+JWT_SECRET = "Mysecretkey"
+
